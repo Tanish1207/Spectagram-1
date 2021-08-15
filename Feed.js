@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 
-export default class Feed extends React.Component(){
+export default class Feed extends React.Component{
     render(){
         return(
             <View style={styles.container}>
